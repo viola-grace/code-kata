@@ -3,8 +3,8 @@
 
 int main()
 {
-    int n;
-    scanf("%d",&n);
+    long long int n;
+    scanf("%lld",&n);
     if(n>0)
     {
         printf("Positive");
